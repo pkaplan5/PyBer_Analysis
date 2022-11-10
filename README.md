@@ -20,5 +20,5 @@ One observation made was that Urban locations collected much more fare per week 
 Based on the results a few things can be done to improve the quality of the ride sharing program.
 
 * The number of drivers can be increased during peak times to allow more riders to join the program.
-* Urban and surburban locales coould have more drivers available to allow more riders to use the program.
-* Cities that have higher usage could offer incentives to drivers to increased the number of drivers in these locations.
+* Urban and surburban locales could have more drivers available to allow more riders to use the program since theri usage was already higher than other locations.
+* Cities that have higher usage could offer incentives to drivers to increase the number of drivers in these locations.

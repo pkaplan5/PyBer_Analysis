@@ -7,10 +7,11 @@ To create the analysis provided, data was collected from ride sharing actitivity
 
 ## Overview of the analysis
 
-The final analysis provided looked at total fares collected from the three location types, urban, rural, and suburban. One obswervation made was that Urban locations collected much more fare per week compared to suburban and rural destinations with peaks in the warmer months. All destinations had lower fare based on the seasonality of the data. Another observation made was that urban locations had more drivers and were able to collect more fares based on the availability of drivers.
-
+The final analysis provided looked at total fares collected from the three location types, urban, rural, and suburban. 
 
 ## Results
+
+One observation made was that Urban locations collected much more fare per week compared to suburban and rural destinations with peaks in the warmer months. All destinations had lower fare based on the seasonality of the data. Another observation made was that urban locations had more drivers and were able to collect more fares based on the availability of drivers.
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/103082844/200925887-54de5e57-9cdd-43a6-a232-52fd11d1a14d.png)
 
